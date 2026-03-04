@@ -15,3 +15,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Laboratory Activity 2
+
+Name: Jomari Tristan S. De Gracia, Jacob Minosa
+Course: BSIT 3.3  
+
+Description:
+This Flutter application displays student information using basic Flutter widgets such as Scaffold, AppBar, Column, and Text. The project was developed using Flutter and pushed to GitHub for version control.

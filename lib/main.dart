@@ -41,12 +41,12 @@ class MyHomePage extends StatelessWidget {
             ),
             SizedBox(height: 20),
             Text(
-              'Name: Jomari Tristan S. De Gracia',
+              'Name: Jomari Tristan S. De Gracia, Jacob Minosa',
               style: TextStyle(fontSize: 18),
             ),
             SizedBox(height: 10),
             Text(
-              'Course: BSIT 2.8',
+              'Course: BSIT 3.3',
               style: TextStyle(fontSize: 18),
             ),
           ],
